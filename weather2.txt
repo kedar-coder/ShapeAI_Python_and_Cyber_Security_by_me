@@ -1,0 +1,8 @@
+Enter the city name: ahmedabad
+-------------------------------------------------------------
+Weather Stats for - AHMEDABAD  || 22 Jun 2021 | 09:41:11 AM
+-------------------------------------------------------------
+Current temperature is: 26.02 deg C
+Current weather desc  : heavy intensity rain
+Current Humidity      : 94 %
+Current wind speed    : 5.14 kmp
